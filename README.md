@@ -1,4 +1,6 @@
 ## <div align='center' >欢迎来到我的GitHub </div>
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![Gmail Badge](https://img.shields.io/badge/-jianlong_sun@163.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:jianlong_sun@163.com)](mailto:jianlong_sun@163.com)
 
 - ☺️ 后端：java
