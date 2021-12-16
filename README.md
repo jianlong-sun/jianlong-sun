@@ -7,6 +7,6 @@
 - 😊 数据库：MySql
 - 😏 框架：SpringBoot、Spring Security
 - 😧 前端:html、vue
-- 😝 开发工具: IntelliJ IDEA、docker、nginx、redis
+- 😝 工具: IntelliJ IDEA、docker、nginx、redis
 
 ![](https://github-readme-stats.vercel.app/api?username=jianlong-sun&theme=dark)
