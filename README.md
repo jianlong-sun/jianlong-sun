@@ -5,8 +5,8 @@
 
 - ☺️ 后端：java
 - 😊 数据库：MySql
-- 😏 框架：SpringBoot、Spring Security
+- 😏 框架：SpringBoot、Spring Security、jpa
 - 😧 前端:html、vue
-- 😝 工具: IntelliJ IDEA、docker、nginx、redis
+- 😝 工具: maven、git、tomcat、 IntelliJ IDEA、docker、nginx、redis、sharding-jdbc
 
 ![](https://github-readme-stats.vercel.app/api?username=jianlong-sun&theme=dark)
